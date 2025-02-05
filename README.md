@@ -11,9 +11,9 @@ This project is a **BlackJack** gambling game built using **Java Swing**. You pl
 ## How to Play
 1. Start the game and place a **bet**.
 2. Draw cards using the **hit** button to get closer to 21.
-3. Choose **Stay** when you're satisfied with your hand.
+3. Choose **stay** when you're satisfied with your hand.
 4. The game determines the winner based on who is closest to 21.
-5. Reset and play again!
+5. **reset** and play again!
 
 ## Technologies Used
 - Java
